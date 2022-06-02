@@ -1,3 +1,3 @@
 # Bulky
 
-Simple .NET MVC APPLICATION that excute CRUD Operations 
+Simple .NET MVC APPLICATION that execute CRUD Operations 
